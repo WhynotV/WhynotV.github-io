@@ -128,7 +128,7 @@
       
         <tags>
             
-            <tag> 标签 </tag>
+            <tag> 生活 </tag>
             
         </tags>
       
@@ -195,18 +195,7 @@
     
     
     <entry>
-      <title>life</title>
-      <link href="/life/index.html"/>
-      <url>/life/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
+      <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
       
@@ -231,17 +220,6 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>技术</title>
-      <link href="/tech/index.html"/>
-      <url>/tech/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
