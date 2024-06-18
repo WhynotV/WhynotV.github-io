@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>一篇技术文章</title>
+      <link href="/posts/a211.html"/>
+      <url>/posts/a211.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编程 </tag>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java</title>
       <link href="/posts/4ea0.html"/>
       <url>/posts/4ea0.html</url>
@@ -11,10 +38,18 @@
         <content type="html"><![CDATA[<p>这是一条测试md</p>]]></content>
       
       
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> tech </tag>
+            <tag> 编程 </tag>
+            
+            <tag> 技术 </tag>
             
         </tags>
       
@@ -204,7 +239,7 @@
     
     
     <entry>
-      <title>tech</title>
+      <title>技术</title>
       <link href="/tech/index.html"/>
       <url>/tech/index.html</url>
       
